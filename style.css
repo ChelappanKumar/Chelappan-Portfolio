@@ -142,7 +142,7 @@ p {
     height: 100%;
     width: 100%;
     background-color: white;
-    opacity: .4;
+    opacity: .7;
     z-index: -1;
 }
 #services .services{
@@ -251,7 +251,7 @@ padding: 100px 0;
     color: crimson;
 }
 #projects p {
-    color: black;
+    color: white;
     font-size: 1.4rem;
     margin-top: 5px;
     line-height: 2.5rem;
@@ -285,5 +285,6 @@ padding: 100px 0;
     }
 }
 /* End Keyframes */
+
 
 
