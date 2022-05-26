@@ -45,7 +45,7 @@ p {
 }
 /* Hero Section */
 #hero{
-    background-image: url(./bg\ 3.JPG);
+    background-image: url(./bg\ 1.JPG);
     background-size: cover;
     background-position: top center;
     position: relative;
@@ -128,7 +128,7 @@ p {
 
 /* Services Section */
 #services {
-    background-image: url(./bg\ 3.JPG);
+    background-image: url(./bg\ 1.JPG);
     background-size: cover;
     background-position: top center;
     position: relative;
@@ -167,7 +167,7 @@ padding: 100px 0;
     flex-direction: column;
     padding: 30px;
     border-radius: 10px;
-    background-image: url(./bg3.jpg);
+    background-image: url(./bg\ 2.jpg);
     background-size: cover;
     margin: 10px 5%;
     position:relative;
