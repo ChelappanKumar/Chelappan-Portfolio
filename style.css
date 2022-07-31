@@ -76,7 +76,6 @@ p {
     background: linear-gradient(135deg, hsl(230, 40%, 12%));
     animation: lights 5s 750ms linear infinite;
     margin: auto;
-    letter-spacing: 5px;
 }
 
 @keyframes lights {
